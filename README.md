@@ -1,2 +1,2 @@
 # draftlottery
-Automatic draft lottery for fantasy football
+##Automatic draft lottery for fantasy football
